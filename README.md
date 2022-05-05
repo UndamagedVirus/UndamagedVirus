@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/UndamagedVirus/UndamagedVirus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UndamagedVirus              &show_icons=true&include_all_commits=true&count_private=true&theme=onedark&layout=compact"/>
-          
-</a>
+<a href="https://github.com/UndamagedVirus/UndamagedVirus"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UndamagedVirus&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
 &nbsp;
 
 <!--
