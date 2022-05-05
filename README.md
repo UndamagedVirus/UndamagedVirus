@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="https://github.com/UndamagedVirus/UndamagedVirus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UndamagedVirus&theme=onedark&layout=compact"/>
+</a>
+&nbsp;
+<a href="https://github.com/UndamagedVirus/UndamagedVirus">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UndamagedVirus&theme=onedark&layout=default"/>
+</a>
+
 <!--
 **UndamagedVirus/UndamagedVirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
