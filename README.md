@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/UndamagedVirus/UndamagedVirus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UndamagedVirus&theme=onedark&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UndamagedVirus&show_icons=true&include_all_commits=true&theme=onedark&layout=compact"/>
 </a>
 &nbsp;
+
 <!--
 <a href="https://github.com/UndamagedVirus/UndamagedVirus">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UndamagedVirus&theme=onedark&layout=default"/>
