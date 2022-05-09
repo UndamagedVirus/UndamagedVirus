@@ -3,11 +3,11 @@
 <a href="https://github.com/UndamagedVirus/UndamagedVirus"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UndamagedVirus&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&count_private=true" alt="UndamagedVirus's github stats" /></a>
 &nbsp;
 
-<!--
+
 <a href="https://github.com/UndamagedVirus/UndamagedVirus">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UndamagedVirus&theme=onedark&layout=default"/>
 </a>
--->
+
 
 
 <!--
