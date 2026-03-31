@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on LED Panels To Display Information From Home Assistant. Based On [This Project](https://github.com/smartbutnot/smartgirder)
-- 🌱 I’m currently learning - CircuitPython
+- 🔭 I have no current projects just now, just learning different langauges.
+- 🌱 I’m currently learning - CircuitPython, Kotlin, Python
 
 
 
