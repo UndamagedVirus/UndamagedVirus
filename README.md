@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on LED Panels To Display Information From Home Assistant. Based On [This Project](https://github.com/smartbutnot/smartgirder)
 - 🌱 I’m currently learning - CircuitPython
 
-<a href="https://github.com/UndamagedVirus/UndamagedVirus"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UndamagedVirus&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&count_private=true" #alt="UndamagedVirus's github stats" /></a> 
-#<a href="https://github.com/UndamagedVirus/UndamagedVirus">
+# <a href="https://github.com/UndamagedVirus/UndamagedVirus"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UndamagedVirus&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&count_private=true" #alt="UndamagedVirus's github stats" /></a> 
+# <a href="https://github.com/UndamagedVirus/UndamagedVirus">
 #    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UndamagedVirus&theme=onedark&layout=default&langs_count=6"/></a> 
 
 
